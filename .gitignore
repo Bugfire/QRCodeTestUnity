@@ -1,0 +1,12 @@
+# Unity Generated
+Temp
+Library
+obj
+
+# VisualStudio
+.vs
+*.csproj
+*.sln
+
+# Project
+iOS
